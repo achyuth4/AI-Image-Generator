@@ -1,5 +1,3 @@
-# ImageGenerator.ai
-
 
 # ImageGenerator-OpenAI
 
