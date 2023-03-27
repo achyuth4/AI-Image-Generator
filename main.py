@@ -18,8 +18,8 @@ black = Fore.LIGHTBLACK_EX
 
 
 
-openai.organization = "org-iAuvJHb9lLfStN2JFnOArxBw" # Here you must put the ID of your organization that you can find in -> https://beta.openai.com/account/org-settings
-openai.api_key = "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" # Here you must put your API KEY that you can find in -> https://beta.openai.com/account/api-keys
+openai.organization = "Enter Your Org ID" # Here you must put the ID of your organization that you can find in -> https://beta.openai.com/account/org-settings
+openai.api_key = "Enter Your API Key" # Here you must put your API KEY that you can find in -> https://beta.openai.com/account/api-keys
 openai.Model.list()
 
 os.system("title achyuth4 - Image Generator - OPEN AI") # Here we give a title to the console
