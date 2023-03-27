@@ -1,13 +1,11 @@
 
-# ImageGenerator-OpenAI
+# AI-Image-Generator_OpenAI
 
 **A simple image generator using the [OpenAI](https://openai.com) desarrollado por [fran_afp_](https://github.com/franafp)**
 
-# Ejemplos
-
 # code
 
-```in python
+```python
 
 import os # We import the OS library, to be able to use console commands
 import random # We import the random library, to be able to generate a random file name
