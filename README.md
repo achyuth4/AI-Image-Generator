@@ -1,4 +1,4 @@
-# Stewart AI Image Generator - OpenAI
+# AI Image Generator - OpenAI
 
 **A simple image generator using the [OpenAI](https://openai.com) Developed by [achyuth4](https://github.com/achyuth4)**
 
