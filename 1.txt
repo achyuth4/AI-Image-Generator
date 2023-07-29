@@ -269,5 +269,5 @@ async def on_guild_remove(guild):
 
 
 if __name__ == "__main__":
-    TOKEN = "M2EzNDc1NDQ0MDA3OTk5ODk4Ng.G0Rchw.cNt7isW2I8ZmDj2Ly00UprA_S6DxMz_fVnXxVU"
+    TOKEN = "M2TEzMzczODE3MDc1MjcxMjc0NA.G901fw.MmUKzvDTFZvirWCdBAAIHRQ89_YQ60x4ya6cnY1"
     run(bot.run(TOKEN))
